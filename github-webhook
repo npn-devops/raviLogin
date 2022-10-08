@@ -1,1 +1,5 @@
 build trigger by github-webhook  by npn
+         .....
+GitHub makes practically every event in their system public.
+It's one of the things that makes Github so awesome. 
+You tell it which events you want to be notified about and which URL you want to be notified about, and GitHub makes a POST request with that data whenever the event occurs.
