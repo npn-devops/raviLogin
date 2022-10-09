@@ -1,1 +1,1 @@
-github webhooks by pydi Naidu
+github webhooks by Pydi Naidu
