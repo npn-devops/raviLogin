@@ -1,2 +1,2 @@
 poll scm by npn
-declarative pipeline scripting for automation by pydi naidu
+deploy to container plugin for automation 
