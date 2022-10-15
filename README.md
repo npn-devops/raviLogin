@@ -1,2 +1,2 @@
 poll scm by npn
-deploy to container plugin for automation by pydi naidu
+deploy to container plugin for automation by pydi naidu alias karthik
